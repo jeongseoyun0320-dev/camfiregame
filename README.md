@@ -57,7 +57,7 @@ PART 1 멧돼지 사냥 → 모닥불 잔치 → 동료 토끼가 쓰러짐! →
 
 ## 🛠 기술 스택
 
-- HTML5 Canvas + 순수 JavaScript (라이브러리 없음)
+- HTML5 Canvas + 순수 JavaScript
 - 192×108 저해상도 캔버스를 정수배로 확대 (픽셀이 선명하게)
 - 배포: [Vercel](https://camfiregame.vercel.app/)
 
